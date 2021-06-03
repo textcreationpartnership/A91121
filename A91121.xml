@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The protestation and declaration of divers knights, esquires, gentlemen, and free-holders of the counties of Lincolne and Nottingham: against the unjust oppressions and inhumane proceedings of William Earle of New-castle and his cavaleers: wherein they doe declare themselves enemies to all such violent courses, and protest to hazzard their lives and estates in defense of His Majesty, the Common-wealth, and the high court of Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91121</idno><idno type="EEBO-CITATION">99871564</idno>
+  <idno type="VID">123976</idno>
+  <idno type="EEBO-PROQUEST">2240926759</idno>
+  
+            <idno type="STC">Wing P3857</idno>
+            <idno type="STC">Thomason E84_17</idno>
+            <idno type="STC">ESTC R22039</idno>
+            <idno type="PROQUEST">99871564</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871564e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91121)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123976)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E84[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The protestation and declaration of divers knights, esquires, gentlemen, and free-holders of the counties of Lincolne and Nottingham: against the unjust oppressions and inhumane proceedings of William Earle of New-castle and his cavaleers: wherein they doe declare themselves enemies to all such violent courses, and protest to hazzard their lives and estates in defense of His Majesty, the Common-wealth, and the high court of Parliament.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>The true copy, sent to be printed at London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Anno Dom. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "Jan: 5. 1642".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Newcastle, William Cavendish, --  Duke of, 1592-1676 --  Early works to 1800.</term>
+               <term type="geographic_name">Lincolnshire (England) --  History --  Sources --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123976:1"/>
+            <p>THE PROTESTATION <hi>AND</hi> DECLARATION OF Divers Knights, Esquires, Gentlemen, and Free-holders of the Counties of <hi>Lincolne</hi> and <hi>Nottingham:</hi> Against the unjust oppressions and inhu<g ref="char:EOLhyphen"/>mane proceedings of <hi>WILLIAM</hi> Earle of New-castle and his Cavaleers: Wherein they doe declare themselves enemies to all such violent courses, and protest to hazzard their lives and estates in defense of his Majesty, the Com<g ref="char:EOLhyphen"/>mon-wealth, and the High Court of Parliament.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add> Jan: 5. 1642</add> The true copy, sent to be printed at <hi>London, Anno Dom.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:123976:2"/>
+            <pb n="3" facs="tcp:123976:2"/>
+            <head>The Protestation and Declaration of divers <hi>Knights, Esquires, Gentlemen</hi> and <hi>Freeholders</hi> of the Counties of <hi>Lineolne</hi> and <hi>Nottingham.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is not unknowne to this whole Kingdome, since the beginning of these our memorable distractions, how great a Stickler in the busi<g ref="char:EOLhyphen"/>nesse <hi>William</hi> Earle of <hi>N<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wcastle</hi> hath been, and yet is, against the peace of the Common-wealth, and the proceedings of the honourable the high Court of Parliament, having first taken into his hands the good towne of <hi>Newcastle,</hi> and manned it with a garrison of his Cavaliers, receiving in at that Port from the Malignants of our Nation be<g ref="char:EOLhyphen"/>yond the Seas, divers supplies of money and ammuniti<g ref="char:EOLhyphen"/>on, to the further infesting the publike tranquillitie, and fomentation and maintenance of the dreadfull and un<g ref="char:EOLhyphen"/>naturall civill warre now raging in our Kingdomes bo<g ref="char:EOLhyphen"/>wells, to promote and continue the said civill warre raging in the North parts of <hi>England▪</hi> an army (most of
+<pb n="4" facs="tcp:123976:3"/> which was made up, and consisted of most notorious Pa<g ref="char:EOLunhyphen"/>pists, and such as were Delinquents to the Common-wealth, and so divulged by the high Court of Parliament) with which Troopes and Companies of Papists and other ill affected persons, the said Earle of <hi>Newcastle</hi> harrasing and destroying the lands, goods, and houses of the Com<g ref="char:EOLhyphen"/>mons in his passage from <hi>Newcastle</hi> towards <hi>Yorke,</hi> both in the Bishoprick of <hi>Durham</hi> and County of <hi>Yorke,</hi> and at last arrived with his said Souldiers and much war<g ref="char:EOLhyphen"/>like provision and Ordnance at the said City of <hi>Yorke,</hi> in the reliefe and assistance of <hi>Henry</hi> Earle of <hi>Cumber<g ref="char:EOLhyphen"/>land,</hi> another notorious Delinquent to the Common-wealth, who had seased upon that famous City, making it his rendevouze for warre, to the affliction and almost deso<g ref="char:EOLhyphen"/>lation of the honest and well affected Inhabitants of the said populous City; nay, of the better part of that spa<g ref="char:EOLhyphen"/>cious County, whose remotest parts were not secure from the hostile invasions of the said Earle of <hi>Cumberland</hi> his souldiers, till the Lord <hi>Fairefax,</hi> Sir <hi>Edward Rhodes,</hi> Ma<g ref="char:EOLhyphen"/>ster <hi>Hotham,</hi> and others, made head against the insolen<g ref="char:EOLhyphen"/>cies by them committed, besieging and restraining them within the compasse of the City of <hi>Yorke,</hi> till by the ap<g ref="char:EOLhyphen"/>proach of the Earle of <hi>Newcastle</hi> thither, their numbers being farre inferiour to his, they were constrained to leave and raise their siege to the Earle of <hi>Newcastle</hi> after<g ref="char:EOLhyphen"/>wards and his ravenous Papists, and avaricious and in<g ref="char:EOLhyphen"/>solent Cavaliers inflicting on the poore people of that County unheard of outrages, sparing, as wee are infor<g ref="char:EOLhyphen"/>med credibly, neither man in their rage, nor woman in their lust; committing and perpetrating farre worse mis<g ref="char:EOLhyphen"/>chiefes to their estates and persons then any forraigne enemy whatsoever would have done: since which time the said Earle of <hi>Newcastle</hi> hath withdrawne himselfe with the mischievous accomplices, to his owne house in the adjoyning County of <hi>Nottingham,</hi> billetting his Ca<g ref="char:EOLhyphen"/>valiers and Papisticall souldiers in the houses of the most
+<pb n="5" facs="tcp:123976:3"/> substantiall persons of that County, who are either in<g ref="char:EOLhyphen"/>forced to quit their dwellings, and abandon their wives, children and estates, and whatsoever can be deare and pre<g ref="char:EOLhyphen"/>tious to mortall men, or to suffer with patience all the indignities and insolent outrages which those enemies to God and the Common wealth in the ferocity of their bar<g ref="char:EOLhyphen"/>barous dispositions will inflict and lay upon them. Many of them for refusing his unjust and unlawfull commands, being dispoyled of all their honest and well-gotten for<g ref="char:EOLhyphen"/>tunes; their Sheepe, Oxen, and other Cattell, being dri<g ref="char:EOLhyphen"/>ven away, and sold before their faces; their plate, money, and other portable substance exposed a prey to his soul<g ref="char:EOLhyphen"/>diers; their persons either imprisoned as Delinquents, or liable to all inhumanities and injuries; so that nothing in the world can be more outragious and fuller of cruelties then the actions of these Papist Cavaliers under the said Earles command, who, as they are inveterate enemies to Gods true Religion, must needs be most malicious adversa<g ref="char:EOLhyphen"/>ries to all the true professors of it throughout this Kingdom.</p>
+            <p>Divers of the said Malignants in troops as freebooters, having made frequent inrodes into the neighouring Coun<g ref="char:EOLhyphen"/>ty of <hi>Lincolne,</hi> of which, we the owners and framers of this present Declaration, are well affected Inhabitants, having in all our proceedings hitherto demeaned and de<g ref="char:EOLhyphen"/>clared our selves, truly obedient to all the commands of the high Court of Parliament, and so are resolute to con<g ref="char:EOLhyphen"/>tinue to the extremest hazard of our lives and fortunes, which wee account no longer our owne then they shall be imployed to the defence of Gods true Religion and service of the Common-wealth and Parliament, to whom wee confesse our selves in all duty bound for the speci<g ref="char:EOLhyphen"/>all and particular care they have alwayes had of our tran<g ref="char:EOLhyphen"/>quillity and welfare, we being well acquainted that by how much more wee have ever deported our selves loyally to<g ref="char:EOLhyphen"/>ward the proceedings of the said sacred Senate, now assem<g ref="char:EOLhyphen"/>bled for rectifying the disorders and curing the distempers
+<pb n="6" facs="tcp:123976:4"/> now abounding in this Kingdome, by so much more de<g ref="char:EOLhyphen"/>sperate is the pernicious hatred and irreconcileable ma<g ref="char:EOLhyphen"/>lice of these Malignants towards us, who have been the principall incendiaries of these distrac<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions and distem<g ref="char:EOLhyphen"/>pers; and fearefull for the said facts to be called to due triall by the Justice of the Parliament, which is incom<g ref="char:EOLhyphen"/>patible with such irregular proceedings.</p>
+            <p>These Malignants having therefore seated themselves in the very next Province to this of <hi>Lincolne,</hi> and from <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hence infested our lands and houses with their thievish <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lunderings, wee the Knights Esquires, Gentlemen and Freeholders of this County of <hi>Lincolne,</hi> doe in all obe<g ref="char:EOLhyphen"/>dience to the Order of high Court of Parliament in this case provided, and in respect of the safety and protecti<g ref="char:EOLhyphen"/>on of our families and fortunes, hereby protest to all the world, that wee are absolute and utter enemies to all <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hose Malignants and Papists now under the command of <hi>William</hi> Earle of <hi>Newcastle</hi> in <hi>Nottinghamshire,</hi> and all others in what part of this Kingdome soever, they be<g ref="char:EOLhyphen"/>ing knowne disturbers of the publique peace of every County where they once set footing, and violators of all humane and divine Lawes; such as for their owne sini<g ref="char:EOLhyphen"/>ster and ungracious ends, namely, for the desire of lucre and rapine, have involved and overwhelmed this King<g ref="char:EOLhyphen"/>dome in this present abysse of miseries; and therefore wee protest by these presents against all their actions, avowing in the alligeance wee owe to his Majesty and the Parliament (the Protector of the publike liberty) that what troopes or parties of them, or any other of their association or condition, that shall presume to come in<g ref="char:EOLhyphen"/>to our said County, or any part upon any pretence what<g ref="char:EOLhyphen"/>soever, that them wee shall endeavour with our abili<g ref="char:EOLhyphen"/>ties and best strengths, from having entrance into our said County; and them as Traytors to the Common-wealth and disturbers of the publike peace of the King<g ref="char:EOLhyphen"/>dome wee shall apprehend and deliver up to their de<g ref="char:EOLhyphen"/>served
+<pb n="7" facs="tcp:123976:4"/> punishment, or them, as man-quellers and rioters, according to the Statute in that case provided, kill with<g ref="char:EOLhyphen"/>out regret or compassion, in our just defence, we being assured in our owne soules, that if the chance of warre shall give us up into their powers, they would use us with all the rigour of mercilesse enemies, as by divers of their former proceedings in other places hath been large<g ref="char:EOLhyphen"/>ly proved and specified: they having lost the naturall softnesse of <hi>English-men</hi> and Christians, and degenerated into almost a <hi>Turkish</hi> inhumanity; our neighbours houses therefore being on fire before our faces, it is high time for us to ber carefull of the safety of our owne dwellings, and not to permit our lands and inheritances to be taken from us as a portion for aliens and strangers; these ha<g ref="char:EOLhyphen"/>ving no more relation to the blood of <hi>English-men,</hi> then they have to <hi>English-mens</hi> vertues.</p>
+            <p>We doe furthermore protest, that we are inforced against our wills by their owne ill behaviours thus to associate our selevs for our owne just defence and security; de<g ref="char:EOLhyphen"/>siring therefore all the honest and well-minded inhabi<g ref="char:EOLhyphen"/>tants both of this and other adjoyning Counties, to en<g ref="char:EOLhyphen"/>ter into this covenant with us against these Papists and Malignant Cavaliers now upon our very borders, for their owne and our families safeties, and the preservation of the peace of the Common-wealth, to which every good Subject and well-wisher to the prosperity of the King<g ref="char:EOLhyphen"/>dome and high Court of Parliament, wee conceive is ob<g ref="char:EOLhyphen"/>liged in duty.</p>
+            <p>Wee doe hereby further declare and remonstrate the deepe sense and reall gratitude wee ought to beare, and ever shall indevour to testifie, to the honourable the high Court of Parliament, for their frequent and important fa<g ref="char:EOLhyphen"/>vours conferred on this County, in especiall for that spe<g ref="char:EOLhyphen"/>cification of their regard to us upon the notice of the Earle of <hi>Newcastle</hi> his arrivall into these parts, in giving order and command to the right honourable the Lord
+<pb n="8" facs="tcp:123976:5"/>
+               <hi>Willoughby</hi> of <hi>Parham,</hi> by their appointment, and to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great content, Lord Lievtenant of this County for t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e raising divers considerable forces of horse and foot for the better securing the safety and quiet of this County <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>gainst the expected attempts and invasions of the Earle of <hi>Newcastle</hi> his Cavaliers upon us out of <hi>Nottinghamshire,</hi> wee hereby declaring and protesting, that according to our bounden duties, and the reverence and obligations wee beare, and so shall doe ever, to the Ordinances of the Parliament, that we will upon all occasions and sum<g ref="char:EOLhyphen"/>mons be ready to hazard our bodies and goods without feare or delay, in any service we shall be commanded to undertake for the Common-wealth, and in obedience of the high Cout of Parliament by the said Lord <hi>Willough<g ref="char:EOLhyphen"/>by</hi> of <hi>Parham</hi> our present Lord Lievtenant, or by any his deputy Lievtenants, or members of the high Cou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of Parliament, intrusted with the affaires of the Com<g ref="char:EOLhyphen"/>mon-wealth in these parts, especially against the afore<g ref="char:EOLhyphen"/>said Earle of <hi>Newcastle</hi> our dangerous Malignant neigh<g ref="char:EOLhyphen"/>bour, and his desperate Popish Cavaliers. This being the uanimous consent of all the honest and well affected S<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>jects in this large County of <hi>Lincolne,</hi> who, as they doe in all duty pray for a faire Accommodation of peace b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tween his Majestie and His high Court of Parliament, will also (as they are in duty obliged) whilest these fat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l civill warres shall be dispersed through this Kingdome, with the extremest extent of their abilities, lives and fortunes labour to defend the Common liberty, and the rights and priviledges of Parliament.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
